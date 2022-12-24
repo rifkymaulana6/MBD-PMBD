@@ -1,5 +1,8 @@
 # MongoDB - Kelompok 4 IF'E
 
+## Link Youtube
+[![Watch the video](https://img.youtube.com/vi/LpZgQlZj5GY/default.jpg)](https://youtu.be/LpZgQlZj5GY)
+
 ## Instalasi dan Setup
 
 - Kunjung website mongoDB https://www.mongodb.com/docs/manual/administration/install-community/
